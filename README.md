@@ -2,7 +2,7 @@
 
 > 为 Apple USB-C 妙控板制作一个**不使用蓝牙的专用 2.4GHz 无线 USB 桥接器**。
 
-[架构设计](docs/ARCHITECTURE.md) · [无线协议](docs/RADIO_PROTOCOL.md) · [验证计划](docs/VALIDATION.md)
+[架构设计](docs/ARCHITECTURE.md) · [无线协议](docs/RADIO_PROTOCOL.md) · [验证计划](docs/VALIDATION.md) · [物料清单 BOM](docs/BOM.md)
 
 ## 项目简介
 
